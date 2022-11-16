@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Oct 29 01:20:40 2022
+# Process ID: 15200
+# Current directory: C:/Users/xiaoy/Desktop/WashU/Fall 2022/CSE 260M/Lab 2/Lab 2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/xiaoy/Desktop/WashU/Fall 2022/CSE 260M/Lab 2/Lab 2.sim/sim_1/behav/xsim/xsim.dir/Lab2_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/xiaoy/Desktop/WashU/Fall 2022/CSE 260M/Lab 2/Lab 2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/xiaoy/Desktop/WashU/Fall 2022/CSE 260M/Lab 2/Lab 2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/xiaoy/Desktop/WashU/Fall -notrace
+couldn't read file "C:/Users/xiaoy/Desktop/WashU/Fall": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sat Oct 29 01:20:40 2022...
